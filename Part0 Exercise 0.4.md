@@ -1,4 +1,4 @@
-# 0.4: new note
+# 0.4: Exercise / Ejercicio 0.4
 
 ```mermaid
 sequenceDiagram

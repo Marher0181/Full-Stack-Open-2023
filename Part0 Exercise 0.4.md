@@ -2,7 +2,7 @@
 
 ```mermaid
 sequenceDiagram
-    Title: 0.4: new note
+    Title: 0.4: Exercise / Ejercicio 0.4
 
     loop POST Method
         browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
